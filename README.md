@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karumishra
-- 👀 I’m interested in Data Science Projects
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Java Development Projects
+- 🌱 I’m currently learning Java Framework
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/karunakar-mishra-5b0b43150
 
 <!---
