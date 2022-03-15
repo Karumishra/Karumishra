@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karumishra
-- 👀 I’m interested in Data Science Projects
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Spring Boot, ReactJS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/karunakar-mishra-5b0b43150
 
